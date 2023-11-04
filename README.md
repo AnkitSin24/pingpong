@@ -1,6 +1,6 @@
 # Ping Pong Game
 
-C:\Users\ANKIT SINGH\Pictures\pingpong.
+
 
 ## Description
 
