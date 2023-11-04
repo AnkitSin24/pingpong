@@ -1,6 +1,7 @@
 # Ping Pong Game
 
 
+![pingpong](https://github.com/AnkitSin24/pingpong/assets/89828727/e0db65af-063b-43ed-9933-1b2d88a2d304)
 
 ## Description
 
